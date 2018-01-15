@@ -1,0 +1,238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Re",
+				"RedisError"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 424,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/yarmas/landlistgen.py",
+		"/Users/yarmas/Cockatrice/Dockfile-server",
+		"/Users/yarmas/Cockatrice/docker-compose.yml",
+		"/Users/yarmas/Cockatrice/Dockerfile",
+		"/Users/yarmas/edhrec proto/deckinput.html",
+		"/Users/yarmas/djc/djc_dashboard/common/python/nbh/track.py",
+		"/Users/yarmas/djc/djc_dashboard/ondemand/python/djcity.py",
+		"/Users/yarmas/Documents/My Tableau Repository/Workbooks/djc.twb",
+		"/Users/yarmas/djc/djc_dashboard/batch/python/update_downloads/update_derived.py",
+		"/Users/yarmas/Cockatrice/servatrice/docker systerm howto",
+		"/Users/yarmas/Cockatrice/servatrice/src/servatrice_database_interface.cpp",
+		"/Users/yarmas/Cockatrice/servatrice.sql",
+		"/Users/yarmas/Cockatrice/servatrice/servatrice.ini",
+		"/Users/yarmas/Documents/tablaue notes.txt",
+		"/Users/yarmas/Cockatrice/initialserversetup.sh",
+		"/Users/yarmas/Cockatrice/startserver.sh",
+		"/Users/yarmas/Cockatrice/stopserver.sh",
+		"/Users/yarmas/Cockatrice/servatrice/servatrice.sql",
+		"/Users/yarmas/Cockatrice/freshinstal.sh",
+		"/Users/yarmas/Library/Application Support/Cockatrice/Cockatrice/replays/replay_3420787.cor",
+		"/Users/yarmas/Cockatrice/servatrice/servatrice.ini.example",
+		"/Users/yarmas/servatriceDB/docker-compose.yml",
+		"/Users/yarmas/Cockatrice/servatrice/dbSetup/database_creation.sql",
+		"/Users/yarmas/Cockatrice/servatrice/check_schema_version.sh",
+		"/Users/yarmas/Cockatrice/servatrice/src/servatrice.h",
+		"/Users/yarmas/Cockatrice/requirements.txt",
+		"/Users/yarmas/Cockatrice/stack.yml",
+		"/Users/yarmas/dockerPractice/Dockerfile",
+		"/Users/yarmas/dockerPractice/docker-compose.yml",
+		"/Users/yarmas/dockerPractice/requirments.txt",
+		"/Users/yarmas/dockerPractice/appl.py",
+		"/Users/yarmas/Cockatrice/README.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
